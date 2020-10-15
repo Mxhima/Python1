@@ -30,3 +30,8 @@ var = 1
  n = input ("Insert your number below: ")
  print (n)
  print ("Sample code ends here.")
+
+ print("Here we will talk about Sequences and Lists.")
+ Family=['Mother','Father','Brother','Sister'] #Every element get an index from the start. First one starts with zero.
+ Family[0] # We can use this to get the value for the entered index number.
+ Family[-2] # We can use the index numbers from the end to the start too. When we use it like this the ending index is -1. and the one one before it is -2, like this it goes on.
